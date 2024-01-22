@@ -1,7 +1,7 @@
 ### Ola! Me chamo Helber Dias
 
 - Desenvolverdor Full-Stack
-- Trabalho com Análise de dados
+- Trabalho com Análise e Desenvolvimento de Sistemas
 
 ![Helber GitHub stats](https://github-readme-stats.vercel.app/api?username=HelberDiasDev&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelberDiasDev&layout=compact&lang_count=16&theme=dark)](https://github.com/HelberDiasDEV/HelberDiasDev/)
