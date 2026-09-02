@@ -59,23 +59,17 @@
     <a href="#"><img alt="Langflow" src="https://img.shields.io/badge/langflow-000000?style=for-the-badge&logo=langflow&logoColor=white"></a>
 </p>
 
-### 🖥 OS
-
-<p>
-    <a href="#"><img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
-
 </br>
 <div display="inline-block">
- <p align="left">🤿 Data Analyst & Cientist currently looking for work;</p>
- <p align="left">📚 In a serious relationship with Python and R, mainly in Data Science field, and also studying Business Intelligence (BI) in the Power BI software;</p>
+ <p align="left"> Data Analyst & Cientist currently looking for work;</p>
+ <p align="left"> In a serious relationship with Python and R, mainly in Data Science field, and also studying Business Intelligence (BI) in the Power BI software;</p>
 </div>
 
 </br>
- 
-##
 <p align="center">
-<a href="https://github.com/HelberDiasDEV"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=afonsosr2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=afonsosr2&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/HelberDiasDEV">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HelberDiasDEV&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HelberDiasDEV&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
+
